@@ -1,0 +1,23 @@
+[
+  { 
+    "name": "Ella Hill",
+    "email": "ella@hill.com",
+    "phone": "834-676-1984",
+    "birthdate": "03/01/2010",
+    "id": 1
+  },
+  { 
+    "name": "Jimmy Barns",
+    "email": "jimmy@barns.com",
+    "phone": "230-563-4347",
+    "birthdate": "07/07/2000",
+    "id": 2
+  },
+  { 
+    "name": "Shawn Spencer",
+    "email": "shawn@spencer.com",
+    "phone": "810-237-3060",
+    "birthdate": "13/10/1990",
+    "id": 3
+  }
+]
