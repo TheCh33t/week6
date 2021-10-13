@@ -5,11 +5,11 @@ export default function Layout( { children, home } ) {
   return (
     <div>
       <Head>
-        <title>Basic Next.js App</title>
+        <title>Basic Next.js and firebase app</title>
       </Head>
       <header>
         <nav>
-          <a href="https://santarosa.edu">SRJC</a>
+          
         </nav>
       </header>
       <main>{children}</main>
@@ -20,7 +20,7 @@ export default function Layout( { children, home } ) {
         )
       }
       <footer>
-        <p>The footer</p>
+        
       </footer>
     </div>
   );
